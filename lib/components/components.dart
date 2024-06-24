@@ -15,6 +15,7 @@ class SingUp extends StatelessWidget {
           ],
         ),
 
+
         body: Column(
           children: [
             Expanded(
